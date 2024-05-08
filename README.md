@@ -39,7 +39,8 @@ OPENEXCHANGERATES_TOKEN=YOUR_TOKEN_HERE
    ```
 
 ## ToDo
-- [ ] 1
-- [ ] 2
-- [ ] 3
-      
+- [ ] Add a highlighted (red?) table for potentially discovered arbitrage's
+- [ ] Add more information vis-a-vis gold and silver in the US vs UK, 3% discount for some purchases, 1% BitPay fees for others
+- [ ] Either scrape websites for all live prices, or use an API (which is paid, scrapping is free)
+- [ ] Backend API to create a friendly UI for this
+    
